@@ -2,7 +2,7 @@
 
 Repositório do curso "Projetos em Arduino usando simuladores"
 
-<img src=".\assets\arduino.png" alt="arduino" style="zoom:25%;" />
+<img src=".\assets\arduino-400.png" alt="arduino" />
 
 ## Slides
 
